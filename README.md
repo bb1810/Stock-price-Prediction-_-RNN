@@ -1,1 +1,1 @@
-# Stock_RNN
+# Stock Price Prediction _ Recurring Neural Network
